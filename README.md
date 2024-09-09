@@ -1,0 +1,74 @@
+<div align="center">
+  <p>
+    <h1> Hello everyone! </h1>
+  </p>
+</div>
+
+<div>
+  <p align="center">I'm studying Computer Engineering and I'm also a hobby content creator. I usually code various types of applications that I like to deploy on cloud devices. While my career is related to project management and software development, I also like hardware and home automation.</p>
+</div>
+
+<div align="center">
+  <h3>🧠 Knowledge and Favorite Tools 🧰</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge">
+</div>
+ 
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/UML-FABD14?logo=uml&logoColor=000&style=for-the-badge">
+</div>
+
+<br>
+
+
+<table align="center">
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdgato&theme=dark&show_icons=true&hide_border=true&layout=compact"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=nerdgato&theme=dark&show_icons=true&hide_border=true&count_private=true"/></td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>📚 Certifications 🎓</h3>
+</div>
+  
+<table align="center">
+  <tr>
+    <td><a href="https://www.credly.com/badges/1cd4a045-8ff5-4bb7-90e1-2ef75f465b8f/public_url" target"_blank">
+      <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="180px"></a>
+    </td>
+    <td><a href="https://www.credly.com/badges/0c7a3162-6fdd-4ff2-9094-893abca3ca7e/public_url" target"_blank">
+      <img src="https://images.credly.com/size/340x340/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" width="180px"></a>
+    </td>
+    <td><a href="https://www.credly.com/badges/3715180d-750a-44d3-a68d-261ff64ada4a/public_url" target"_blank">
+      <img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="180px"></a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://imgur.com/B2Fqybr.gif">
+</div>
+
+ <!---<table align="center">
+   <tr>
+     <td>
+          <img src="https://imgur.com/B2Fqybr.gif">
+     </td>
+   </tr>
+ </table>-->
+ 
+
