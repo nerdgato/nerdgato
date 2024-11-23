@@ -11,25 +11,40 @@
 <div align="center">
   <h3>🧠 Knowledge and Favorite Tools 🧰</h3>
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge">
-</div>
  
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/PL%2FSQL-82609C?style=for-the-badge&logo=oracle&logoColor=white">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-1BB54C?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/%7B%20%7D%20JSON-FA9A39?style=for-the-badge&logoColor=white&labelColor=FA9A39">
+  <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQLite-%232596BE?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-314162?style=for-the-badge">
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/UML-FABD14?logo=uml&logoColor=000&style=for-the-badge">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge">
 </div>
 
 <br>
